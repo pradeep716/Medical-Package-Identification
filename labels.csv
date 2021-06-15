@@ -1,0 +1,202 @@
+,Package_label_encoding,labels_un_label_encod
+0,8, Ophthalmology
+1,9, Orthopedic
+2,0, Cardiovascular / Pulmonary
+3,8, Ophthalmology
+4,6, Neurosurgery
+5,9, Orthopedic
+6,2, Gastroenterology
+7,11, Urology
+8,0, Cardiovascular / Pulmonary
+9,11, Urology
+10,2, Gastroenterology
+11,6, Neurosurgery
+12,3, Hematology - Oncology
+13,7, Obstetrics / Gynecology
+14,3, Hematology - Oncology
+15,9, Orthopedic
+16,2, Gastroenterology
+17,9, Orthopedic
+18,1, ENT - Otolaryngology
+19,9, Orthopedic
+20,11, Urology
+21,9, Orthopedic
+22,9, Orthopedic
+23,8, Ophthalmology
+24,5, Neurology
+25,7, Obstetrics / Gynecology
+26,9, Orthopedic
+27,0, Cardiovascular / Pulmonary
+28,4, Nephrology
+29,7, Obstetrics / Gynecology
+30,0, Cardiovascular / Pulmonary
+31,2, Gastroenterology
+32,9, Orthopedic
+33,6, Neurosurgery
+34,6, Neurosurgery
+35,11, Urology
+36,7, Obstetrics / Gynecology
+37,2, Gastroenterology
+38,9, Orthopedic
+39,6, Neurosurgery
+40,9, Orthopedic
+41,5, Neurology
+42,11, Urology
+43,2, Gastroenterology
+44,3, Hematology - Oncology
+45,7, Obstetrics / Gynecology
+46,5, Neurology
+47,0, Cardiovascular / Pulmonary
+48,10, Pediatrics - Neonatal
+49,5, Neurology
+50,2, Gastroenterology
+51,5, Neurology
+52,11, Urology
+53,11, Urology
+54,3, Hematology - Oncology
+55,9, Orthopedic
+56,0, Cardiovascular / Pulmonary
+57,9, Orthopedic
+58,0, Cardiovascular / Pulmonary
+59,11, Urology
+60,4, Nephrology
+61,9, Orthopedic
+62,0, Cardiovascular / Pulmonary
+63,11, Urology
+64,0, Cardiovascular / Pulmonary
+65,0, Cardiovascular / Pulmonary
+66,0, Cardiovascular / Pulmonary
+67,3, Hematology - Oncology
+68,10, Pediatrics - Neonatal
+69,10, Pediatrics - Neonatal
+70,7, Obstetrics / Gynecology
+71,7, Obstetrics / Gynecology
+72,10, Pediatrics - Neonatal
+73,2, Gastroenterology
+74,9, Orthopedic
+75,9, Orthopedic
+76,3, Hematology - Oncology
+77,10, Pediatrics - Neonatal
+78,2, Gastroenterology
+79,5, Neurology
+80,0, Cardiovascular / Pulmonary
+81,0, Cardiovascular / Pulmonary
+82,0, Cardiovascular / Pulmonary
+83,7, Obstetrics / Gynecology
+84,2, Gastroenterology
+85,11, Urology
+86,0, Cardiovascular / Pulmonary
+87,0, Cardiovascular / Pulmonary
+88,2, Gastroenterology
+89,7, Obstetrics / Gynecology
+90,0, Cardiovascular / Pulmonary
+91,0, Cardiovascular / Pulmonary
+92,0, Cardiovascular / Pulmonary
+93,5, Neurology
+94,9, Orthopedic
+95,6, Neurosurgery
+96,0, Cardiovascular / Pulmonary
+97,5, Neurology
+98,7, Obstetrics / Gynecology
+99,2, Gastroenterology
+100,0, Cardiovascular / Pulmonary
+101,0, Cardiovascular / Pulmonary
+102,0, Cardiovascular / Pulmonary
+103,7, Obstetrics / Gynecology
+104,1, ENT - Otolaryngology
+105,7, Obstetrics / Gynecology
+106,1, ENT - Otolaryngology
+107,2, Gastroenterology
+108,0, Cardiovascular / Pulmonary
+109,3, Hematology - Oncology
+110,0, Cardiovascular / Pulmonary
+111,3, Hematology - Oncology
+112,9, Orthopedic
+113,2, Gastroenterology
+114,11, Urology
+115,9, Orthopedic
+116,9, Orthopedic
+117,0, Cardiovascular / Pulmonary
+118,9, Orthopedic
+119,4, Nephrology
+120,0, Cardiovascular / Pulmonary
+121,1, ENT - Otolaryngology
+122,7, Obstetrics / Gynecology
+123,2, Gastroenterology
+124,5, Neurology
+125,2, Gastroenterology
+126,4, Nephrology
+127,2, Gastroenterology
+128,9, Orthopedic
+129,4, Nephrology
+130,1, ENT - Otolaryngology
+131,11, Urology
+132,2, Gastroenterology
+133,5, Neurology
+134,9, Orthopedic
+135,5, Neurology
+136,0, Cardiovascular / Pulmonary
+137,6, Neurosurgery
+138,0, Cardiovascular / Pulmonary
+139,0, Cardiovascular / Pulmonary
+140,11, Urology
+141,1, ENT - Otolaryngology
+142,4, Nephrology
+143,9, Orthopedic
+144,0, Cardiovascular / Pulmonary
+145,5, Neurology
+146,0, Cardiovascular / Pulmonary
+147,1, ENT - Otolaryngology
+148,9, Orthopedic
+149,6, Neurosurgery
+150,1, ENT - Otolaryngology
+151,8, Ophthalmology
+152,11, Urology
+153,8, Ophthalmology
+154,6, Neurosurgery
+155,8, Ophthalmology
+156,3, Hematology - Oncology
+157,1, ENT - Otolaryngology
+158,6, Neurosurgery
+159,8, Ophthalmology
+160,9, Orthopedic
+161,7, Obstetrics / Gynecology
+162,2, Gastroenterology
+163,5, Neurology
+164,5, Neurology
+165,5, Neurology
+166,0, Cardiovascular / Pulmonary
+167,5, Neurology
+168,0, Cardiovascular / Pulmonary
+169,4, Nephrology
+170,1, ENT - Otolaryngology
+171,9, Orthopedic
+172,9, Orthopedic
+173,2, Gastroenterology
+174,0, Cardiovascular / Pulmonary
+175,9, Orthopedic
+176,7, Obstetrics / Gynecology
+177,9, Orthopedic
+178,7, Obstetrics / Gynecology
+179,5, Neurology
+180,9, Orthopedic
+181,10, Pediatrics - Neonatal
+182,10, Pediatrics - Neonatal
+183,5, Neurology
+184,2, Gastroenterology
+185,11, Urology
+186,5, Neurology
+187,5, Neurology
+188,9, Orthopedic
+189,9, Orthopedic
+190,0, Cardiovascular / Pulmonary
+191,2, Gastroenterology
+192,9, Orthopedic
+193,9, Orthopedic
+194,2, Gastroenterology
+195,9, Orthopedic
+196,8, Ophthalmology
+197,0, Cardiovascular / Pulmonary
+198,5, Neurology
+199,4, Nephrology
+200,5, Neurology
